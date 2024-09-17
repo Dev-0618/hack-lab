@@ -1,6 +1,4 @@
----
-
-### **Cybersecurity Workshop: Hands-On Exploitation Techniques**
+**Cybersecurity Workshop: Hands-On Exploitation Techniques**
 
 This 2-hour workshop dives deep into practical cybersecurity attacks and defense mechanisms. Participants will explore key exploitation tools and techniques used in real-world scenarios, focusing on:
 
@@ -15,5 +13,3 @@ This 2-hour workshop dives deep into practical cybersecurity attacks and defense
 - **BLE Spamming**: Disrupting Bluetooth devices using **BLE-Spammer** tools.
 
 By the end of this session, attendees will gain hands-on experience with offensive and defensive security techniques, equipping them with the skills to safeguard and evaluate system vulnerabilities.
-
----
