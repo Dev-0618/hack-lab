@@ -13,3 +13,5 @@ This 2-hour workshop dives deep into practical cybersecurity attacks and defense
 - **BLE Spamming**: Disrupting Bluetooth devices using **BLE-Spammer** tools.
 
 By the end of this session, attendees will gain hands-on experience with offensive and defensive security techniques, equipping them with the skills to safeguard and evaluate system vulnerabilities.
+
+active website: [CyberSec](https://Dev-0618.github.io/hack-lab)
